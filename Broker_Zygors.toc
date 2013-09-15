@@ -1,0 +1,14 @@
+## Interface: 50400
+## Version: 5.4.1
+
+## Title: Broker: |cff00ff00Zygors Guide Viewer|r 
+## Notes: Toggle for Zygors Guides Viewer
+## Author: almty1
+
+## Dependencies: ZygorGuidesViewer
+
+Broker_Zygors.lua
+
+## Libraries
+libs\LibDataBroker-1.1.lua
+
